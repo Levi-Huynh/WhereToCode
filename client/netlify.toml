@@ -1,6 +1,6 @@
 [build]
 base = "client/"
-publish = "client/"
+publish = 
 command = "yarn build"
 
 [[redirects]]
